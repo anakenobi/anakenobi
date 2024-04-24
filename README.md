@@ -2,6 +2,7 @@
 
 Sou estudante de Sistemas de Informação na Universidade Federal do Ceará
 
+“Your best and wisest refuge from all troubles is in your science.” - Ada Lovelace
 ---
 
 ## 🚀 Minhas Skills
@@ -14,4 +15,4 @@ Sou estudante de Sistemas de Informação na Universidade Federal do Ceará
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anakenobi&show_icons=true)
