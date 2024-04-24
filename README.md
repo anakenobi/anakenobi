@@ -15,4 +15,4 @@ Sou estudante de Sistemas de Informação na Universidade Federal do Ceará
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anakenobi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anakenobi&show_icons=true](https://github-readme-stats.vercel.app/api?username=anakenobi&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300))
