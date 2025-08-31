@@ -1,6 +1,5 @@
 ## :blossom: Olá, meu nome é Ana Letícia!
-
-Sou estudante de Sistemas de Informação na Universidade Federal do Ceará
+ estudante de Sistemas de Informação na Universidade Federal do Ceará
 #### [LinkedIn](https://linkedin.com/in/anaoliveirasoares)
 
 
